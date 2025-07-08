@@ -1,2 +1,2 @@
 # EmtProject
-bookshop-app
+bookshop-app/backend 
